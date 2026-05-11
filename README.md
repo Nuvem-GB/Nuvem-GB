@@ -96,12 +96,12 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Nuvem-GB&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats-ten-blush-65.vercel.app/api/top-langs/?username=Nuvem-GB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+/>
 
 </p>
 
